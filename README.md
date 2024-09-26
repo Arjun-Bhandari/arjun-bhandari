@@ -26,7 +26,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-bhandari&show_icons=true&locale=en&layout=compact" alt="arjun-bhandari&theme=radical" alt="Profile Summary">
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-bhandari&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Most Used Languages">
 </td>
 <td>
   <img width="300em" src="https://github-readme-stats.vercel.app/api?username=arjun-bhandari&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
