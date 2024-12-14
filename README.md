@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-bhandari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arjunbh004039" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh004039?logo=twitter&style=for-the-badge" alt="arjunbh004039" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arjunbh200OK" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh200OK?logo=twitter&style=for-the-badge" alt="arjunbh200OK" /></a> </p>
 
 - 🌱 I’m currently learning **WebDevelopment**
 
