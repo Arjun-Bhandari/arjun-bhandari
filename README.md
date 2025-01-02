@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjunbh200OK" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh200OK?logo=twitter&style=for-the-badge" alt="arjunbh200OK" /></a> </p>
 
-- 🌱 I’m currently learning **WebDevelopment**
+- 🌱 I’m currently learning **Web Development, App Development**
 
 - 💬 Ask me about **React, Nodejs, ExpressJs, MongoDb, MyPhpAdmin, SQL**
 
