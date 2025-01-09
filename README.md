@@ -38,7 +38,8 @@
   <img width="300em" src="https://github-readme-stats.vercel.app/api?username=arjun-bhandari&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-bhandari&theme=radical" alt="Streak Stats"/>
+<!--   <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-bhandari&theme=radical" alt="Streak Stats"/> -->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=arjun-bhandari)](https://git.io/streak-stats)
 </td>
 </tr>
 </table>
