@@ -39,7 +39,7 @@
 </td>
 <td>
 <!--   <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-bhandari&theme=radical" alt="Streak Stats"/> -->
- [![GitHub Streak](https://streak-stats.demolab.com/?user=arjun-bhandari)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=arjun-bhandari)](https://git.io/streak-stats) -->
 </td>
 </tr>
 </table>
